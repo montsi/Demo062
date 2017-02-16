@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp", "CarApp\CarApp.csproj", "{492ED847-E319-46F2-8437-2C109D70002D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroMarkkaApp", "EuroMarkkaApp\EuroMarkkaApp.csproj", "{78A4D609-76D3-470C-BC13-C679D95AA762}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,24 @@ Global
 		{492ED847-E319-46F2-8437-2C109D70002D}.Release|x86.ActiveCfg = Release|x86
 		{492ED847-E319-46F2-8437-2C109D70002D}.Release|x86.Build.0 = Release|x86
 		{492ED847-E319-46F2-8437-2C109D70002D}.Release|x86.Deploy.0 = Release|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|ARM.ActiveCfg = Debug|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|ARM.Build.0 = Debug|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|ARM.Deploy.0 = Debug|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x64.ActiveCfg = Debug|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x64.Build.0 = Debug|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x64.Deploy.0 = Debug|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x86.ActiveCfg = Debug|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x86.Build.0 = Debug|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Debug|x86.Deploy.0 = Debug|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|ARM.ActiveCfg = Release|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|ARM.Build.0 = Release|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|ARM.Deploy.0 = Release|ARM
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x64.ActiveCfg = Release|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x64.Build.0 = Release|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x64.Deploy.0 = Release|x64
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x86.ActiveCfg = Release|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x86.Build.0 = Release|x86
+		{78A4D609-76D3-470C-BC13-C679D95AA762}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
